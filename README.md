@@ -30,6 +30,4 @@ python car_game.py
 * Score tracking
 
 # Future Improvements
-Add GUI
-    
-3. Add leaderboard
+Add GUI(Tkinter)
