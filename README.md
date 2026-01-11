@@ -22,7 +22,7 @@ Car game using Python and Pygame where player should avoid hitting incoming cars
 ## Run the Game
 ```bash
 python car_game.py
-
+```
 Features
     Simple keyboard controls
 
