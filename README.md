@@ -24,15 +24,15 @@ Car game using Python and Pygame where player should avoid hitting incoming cars
 python car_game.py
 ```
 Features
-    Simple keyboard controls
+Simple keyboard controls
 
-    Flying mode
+Flying mode
 
-    Increasing difficulty over time
+Increasing difficulty over time
 
-    Score tracking
+Score tracking
 
 Future Improvements
-    1. Add GUI menu
+1. Add GUI menu
     
-    2. Add leaderboard
+2. Add leaderboard
